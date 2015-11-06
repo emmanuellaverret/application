@@ -1,0 +1,18 @@
+.case{
+	height: 100px;
+	width: 100px;
+	margin: 5px;
+	background-color: #ccc;
+	display: inline-flex;
+}
+
+.colone {
+	height: 120px;
+	width: 500px;
+}
+
+
+#grid {
+	height: 315px;
+	width: 315px;
+}
